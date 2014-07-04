@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+           
+  <project path="hardware/qcom/keymaster" name="platform_hardware_qcom_keymaster" groups="qcom" remote="ok" revision="kk-4.4" />
+
+</manifest>
