@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/qcom/common" name="platform_device_qcom_common" groups="pdk" remote="sp" revision="kk-4.4" />
+
+</manifest>
