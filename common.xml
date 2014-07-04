@@ -8,7 +8,7 @@
   <project path=".repo/local_manifests/manifests" name="manifests" remote="ok" revision="master">
     <copyfile src="oct.xml" dest=".repo/local_manifests/oct.xml"/>
     <copyfile src="common.xml" dest=".repo/local_manifests/common.xml"/>
-    <copyfile src="manifests/sam.xml" dest="sam.xml"/>
+    <copyfile src="sam.xml" dest="sam.xml"/>
   </project>
 
 </manifest>
