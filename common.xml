@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="ok"
+           fetch="git://github.com/Octo-Kat/"
+           revision="master" />
+           
+  <project path=".repo/local_manifests/manifests" name="manifests" remote="ok" revision="master">
+    <copyfile src="oct.xml" dest=".repo/local_manifests/oct.xml"/>
+    <copyfile src="common.xml" dest=".repo/local_manifests/common.xml"/>
+    <!--copyfile src="manifests/sam.xml" dest="sam.xml"/-->
+  </project>
+
+</manifest>
